@@ -6,4 +6,4 @@ using an LSTM on the data to learn (as a cellphone attached on the waist) to rec
 ![alt text](https://github.com/sanjay-810/human-activity/blob/main/images/graph.png?raw=true)
 
 
-![alt text](https://github.com/sanjay-810/human-activity/blob/main/sample_images/graph1.png?raw=true)
+![alt text](https://github.com/sanjay-810/human-activity/blob/main/images/graph1.png?raw=true)
